@@ -1,0 +1,3 @@
+opencv-python
+numpy
+adafruit-pca9685
